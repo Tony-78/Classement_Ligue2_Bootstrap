@@ -6,7 +6,7 @@
 
 Vous maitrisez maintenant **bootstrap**, votre job, si vous l'acceptez, est de reproduire le tableau de classement suivant :  
 
-![Tableau](assets/img/capture_01.PNG "Tableau")  
+![Tableau](/assets/img/capture_01.PNG "Tableau")  
 
 *Vous devez vous rendre sur le site : <https://www.ligue2.fr/classement> pour récupérer les images.  
 **Utilisation du site <https://www.remove.bg/> pour **détourer** vos images.  
@@ -27,7 +27,7 @@ Le dossier de ce test sera composé de cette manière :
 * Utiliser majoritairement *des classes bootstrap* : **Votre site doit être responsive**.
 * Nous allons prendre comme référence l'iPhone avec une largeur de **414px** (*ex. iPhone 8* Plus)
 * Le tableau doit être **optimisé** en mode mobile : *voir ci-dessous*
-![Tableau](assets/img/capture_02.PNG "Tableau")  
+![Tableau](/assets/img/capture_02.PNG "Tableau")  
 * Le tableau doit bénéficier d'un effet lors du survol de la souris (*surbrillance*) : **Nous devons pouvoir reconnaitre la ligne du tableau lorsque que nous passons la souris dessus.**
 * Les images seront à enregistrer dans le dossier du TP **img**.
 * Utilisation de l'anglais lors de la création de vos **class** et de vos **id**.
