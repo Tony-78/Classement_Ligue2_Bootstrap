@@ -1,0 +1,38 @@
+thead, h1, h3 {
+    color: #091C3E;
+}
+
+.logo-1{
+    width:2rem;
+    height: 2rem;
+}
+
+.logo-2 {
+    width: auto;
+    height: 10%;
+}
+
+.background-lign-1 {
+    background-color: #091C3E;
+    color: #FFFFFF;
+}
+
+.background-lign-2-3 {
+    background-color: #E6E6E6;
+    color: #091C3E;
+}
+
+.background-lign-other {
+    background-color: #E0E0E0;
+    color: #091C3E;
+}
+
+.background-lign-18 {
+    background-color: #B3B3B3;
+    color: #091C3E;
+}
+
+.background-lign-19-20 {
+    background-color: #808080;
+    color: #091C3E;
+}
